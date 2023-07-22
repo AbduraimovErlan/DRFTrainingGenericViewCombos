@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'GenericViewCombos1',
+    'GenericViewCombos2',
 ]
 
 MIDDLEWARE = [
